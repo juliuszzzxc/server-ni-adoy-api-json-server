@@ -22,19 +22,19 @@
     },
     {
       "id": "2",
-      "departmentName": "Munting Lupa"
+      "placeName": "Munting Lupa"
     },
     {
       "id": "3",
-      "departmentName": "Pasay"
+      "placeName": "Pasay"
     },
     {
       "id": "4",
-      "departmentName": "Cavite"
+      "placeName": "Cavite"
     },
     {
       "id": "5",
-      "departmentName": "Laguna"
+      "placeName": "Laguna"
     }
   ]
 }
