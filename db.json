@@ -1,7 +1,18 @@
 {
   "user": [
     {
-      
+      "name": "French Regional Park",
+      "details": "An outdoor area where children can play that usually includes special equipment (such as swings and slides)",
+      "kms": "189 Kilometers",
+      "price": "₱1,800",
+      "photo": "https://juliuszzzxc.github.io/img/pg1/5.webp",
+      "photo2": "https://juliuszzzxc.github.io/img/pg1/1.webp",
+      "photo3": "https://juliuszzzxc.github.io/img/pg1/2.webp",
+      "photo4": "https://juliuszzzxc.github.io/img/pg1/3.webp",
+      "photo5": "https://juliuszzzxc.github.io/img/pg1/4.webp",
+      "date": "Apr. 9-12",
+      "department": "Caloocan",
+      "id": 1
     }
   ],
   "department": [
