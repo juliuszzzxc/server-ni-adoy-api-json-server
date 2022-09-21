@@ -1,0 +1,46 @@
+{
+    "user": [
+      {
+        "name": "MarkoChange",
+        "email": "alfren@kodego.ph",
+        "title": "test",
+        "mobile": "1857326529",
+        "photo": "https://th.bing.com/th/id/OIP.Iq1QXifXgyi6fmdPBA3bjAHaHa?pid=ImgDet&rs=1",
+        "companyName": "kodego",
+        "department": "Executive",
+        "id": 1
+      },
+      {
+        "name": "Ejerson",
+        "email": "ejerson@gmail.com",
+        "title": "Web Dev",
+        "mobile": "",
+        "photo": "https://cdn2.vectorstock.com/i/1000x1000/17/61/male-avatar-profile-picture-vector-10211761.jpg",
+        "companyName": "0912132434",
+        "department": "",
+        "id": 2
+      }
+    ],
+    "department": [
+      {
+        "id": "1",
+        "departmentName": "Marketing"
+      },
+      {
+        "id": "2",
+        "departmentName": "Executive"
+      },
+      {
+        "id": "3",
+        "departmentName": "Finance"
+      },
+      {
+        "id": "4",
+        "departmentName": "HR"
+      },
+      {
+        "id": "5",
+        "departmentName": "ICT"
+      }
+    ]
+  }
